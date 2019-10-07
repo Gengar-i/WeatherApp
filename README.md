@@ -10,7 +10,7 @@ Pada? jest aplikacją pogodową, która pozwala uzyskać informację na temat bi
 
    Odpalamy konsole i przechodzimy do głównego katalogu projektu - instalujemy wszystkie biblioteki za pomocą `npm install`.
 
-Oto demo wersja naszej aplikacji : https://malgoskabou.github.io/CoolWeatherApp/
+Oto demo wersja naszej aplikacji : https://gengar-i.github.io/WeatherApp/
 
 Aplikacja jest intuicyjna i zawiera jeden główny ekran. Jeśli użytkownik poprzednio korzystał z aplikacji, po ponownym uruchomieniu będzie ona wyświetlała pogodę dla ostatniego zapisu. Jeśli użytkownik korzysta po raz pierwszy zostaną wyświetlone dane pogodowe dla dla miejsca, gdzie użytkownik zostanie zlokalizowany(gdy lokalizacja jest dostępna):
 
